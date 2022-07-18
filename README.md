@@ -15,8 +15,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishanniriella&show_icons=true&locale=en&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="nishanniriella" /></p>
-
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishanniriella&show_icons=true&locale=en&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="nishanniriella" /></p>
+<br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanniriella&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="nishanniriella" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
